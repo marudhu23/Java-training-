@@ -1,0 +1,7 @@
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Name\t: Arun\nCourse\t: Java\nLevel\t: Beginner");
+    }
+}
+// \n — moves to the next line.
+// \t — adds a tab space.
